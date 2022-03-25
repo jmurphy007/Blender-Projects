@@ -13,4 +13,4 @@ The Wii Bowling project is from my Multimedia Computing class in the Fall 2021 s
 I was in charge of the animations, modelling the Nintendo Miis, coordinating the group, and piecing everyone's contributions together.
 The rest of my group members for this project were my classmates Eric Dolph, Shane Thomas, and Daniela Bautista.
 
-Due to the file size, the Table Bottle and Wii Bowling Projects could not be uploaded, but I can send them if requested.
+Due to the file size, the Table Bottle and Wii Bowling project files could not be uploaded, but I can send them if requested.
